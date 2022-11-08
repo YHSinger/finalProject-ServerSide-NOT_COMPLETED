@@ -1,0 +1,35 @@
+{"level":"fatal","message":"cant connect to db, error:MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2022-08-31T19:33:09.315Z"}
+{"level":"fatal","message":"cant connect to db, error:MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2022-08-31T19:36:46.484Z"}
+{"level":"fatal","message":"cant connect to db, error:MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2022-08-31T19:41:48.538Z"}
+{"level":"fatal","message":"cant connect to db, error:MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2022-08-31T19:46:04.767Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-08-31T19:48:53.847Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-08-31T19:48:53.875Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-09-01T10:24:36.852Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-09-01T10:24:36.890Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-09-01T14:16:11.700Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-09-01T14:16:11.785Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-09-04T06:11:30.872Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-09-04T06:11:31.307Z"}
+{"level":"fatal","message":"cant connect to db, error:MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2022-10-02T07:27:03.671Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-23T07:07:30.507Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-23T07:07:30.664Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-23T09:21:41.124Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-23T09:21:41.195Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-23T09:24:35.029Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-23T09:24:35.073Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-23T09:59:39.817Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-23T09:59:39.872Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-23T10:01:03.814Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-23T10:01:03.871Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-23T10:01:57.440Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-23T10:01:57.550Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-23T10:03:47.454Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-23T10:03:47.550Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-24T07:02:26.074Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-24T07:02:26.111Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-24T07:29:43.338Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-24T07:29:43.390Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-24T08:33:46.633Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-24T08:33:46.661Z"}
+{"level":"info","message":"connected to db","timestamp":"2022-10-24T08:39:42.745Z"}
+{"level":"info","message":"Listening on port 3001","timestamp":"2022-10-24T08:39:42.877Z"}
